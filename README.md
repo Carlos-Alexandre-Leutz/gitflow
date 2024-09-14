@@ -33,7 +33,7 @@ Com o Git Flow, você consegue definir um padrão para criação de branches, co
                             | Merge
                             v
                   +---------------------+
-                  |     Development     | task/78945-criar-rota
+                  |     Tarefa          | task/78945-criar-rota
                   +---------------------+
                             |
                             | Merge
@@ -45,7 +45,7 @@ Com o Git Flow, você consegue definir um padrão para criação de branches, co
                             | Merge
                             v
                   +---------------------+
-                  |      develop        | Testada
+                  |      DEV            | Testada
                   +---------------------+
                 /                      \
                /                        \
